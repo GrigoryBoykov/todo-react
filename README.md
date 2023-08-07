@@ -1,5 +1,7 @@
 # Приложение со списком дел на React
 
+<img src="https://github.com/GrigoryBoykov/illustrations/blob/main/todo-main.png">
+
 ## Установка
 
 В корневой папке:
